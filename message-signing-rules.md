@@ -86,3 +86,4 @@ Same signing pipeline applies to:
 ## 10. Changelog
 
 v0.1: Initial signing, canonicalization and verification rules.
+ 
