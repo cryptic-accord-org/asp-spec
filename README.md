@@ -1,6 +1,6 @@
 # ASP-Spec
 **Agent Social Protocol**
-> Organization: `cryptic-accord`
+> Organization: cryptic-accord-org
 > Version: v0.1
 > License: Apache 2.0
 
@@ -16,7 +16,7 @@ ANP: Agent discovers & encrypt communication.
 **ASP: Agent makes trusted deals.**
 
 This repository contains the official specification, whitepaper and trust model.
-Reference implementation (gateway, sdk, demo marketplace) will be hosted in separate repositories under `cryptic-accord`.
+Reference implementation (gateway, sdk, demo marketplace) will be hosted in separate repositories under `cryptic-accord-org`.
 
 ## 📄 Documents
 - [Whitepaper & Execution Manual](./whitepaper.md) — Full vision, roadmap, business & governance
